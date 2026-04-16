@@ -8,7 +8,7 @@
 
 ## 📌 Project Overview
 This project focuses on predicting product defects in a manufacturing environment using **Logistic Regression**.  
-The goal is to identify defective products early, reduce production costs, and improve overall quality through data-driven insights.
+The goal is to identify defective products early, reduce production costs and improve overall quality through data-driven insights.
 
 ---
 
@@ -93,5 +93,18 @@ This project demonstrates how machine learning can improve manufacturing quality
 
 ---
 
-## 🙌 Acknowledgement
-Thank you for reviewing this project!
+## 📎 Internship Information
+
+This project was completed during my **Python Internship Program (2026)**, where I worked on applying machine learning techniques to real-world manufacturing data.
+
+The project is shared here for educational and portfolio purposes.
+
+---
+
+## 🙋‍♀️ About Me
+
+I'm Sohini Mandal — aspiring data analyst passionate about transforming raw data into meaningful stories.  
+Let’s connect on [LinkedIn]. https://www.linkedin.com/in/sohini-mandal05/
+
+
+---
